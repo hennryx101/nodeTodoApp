@@ -1,0 +1,95 @@
+/* Set form styles */
+form#myForm {
+    margin-bottom: 20px;
+  }
+  
+  /* Set label styles */
+  form#myForm label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Set input styles */
+  form#myForm input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    border: 1px solid #dddddd;
+  }
+  
+  /* Set button styles */
+  form#myForm button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Add some spacing between the form and the table */
+  .table {
+    margin-top: 20px;
+  }
+/* Set table styles */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  /* Set caption styles */
+  .table caption {
+    text-align: left;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Set thead styles */
+  .table thead {
+    background-color: #f0f0f0;
+  }
+  
+  /* Set th styles */
+  .table th {
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  /* Set tbody styles */
+  .table tbody {
+    background-color: #ffffff;
+  }
+  
+  /* Set td styles */
+  .table td {
+    padding: 10px;
+    border-bottom: 1px solid #dddddd;
+  }
+
+  .table a {
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+  }
+
+  .table .del{
+    margin-top: -32px;
+    padding: 5px;
+    display: inline-block;
+  }
+
+  .table .del:hover {
+    background-color: #d40303;
+    color: #000000;
+    cursor: pointer;
+  }
+
+  .table a:hover {
+    background-color: #4caf50;
+    color: #000000;
+  }
+
+  .formTask{
+
+  }
